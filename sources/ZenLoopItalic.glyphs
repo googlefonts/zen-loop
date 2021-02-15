@@ -1,5 +1,8 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"/space/nbspace"
+);
 copyright = "Copyright 2021 The Zen-Loop Project Authors (https://github.com/googlefonts/zen-loop)";
 customParameters = (
 {
@@ -209,7 +212,7 @@ name = hheaDescender;
 value = 250;
 },
 {
-name = typoLineGap;
+name = hheaLineGap;
 value = 0;
 },
 {
@@ -15434,13 +15437,14 @@ unicode = 2026;
 {
 color = 0;
 glyphname = nbspace;
-lastChange = "2020-08-21 14:01:21 +0000";
+lastChange = "2021-02-15 04:43:55 +0000";
 layers = (
 {
 layerId = "8AECA43D-4735-4071-BB51-E4BAE59DF091";
-width = 250;
+width = 240;
 }
 );
+widthMetricsKey = space;
 unicode = 00A0;
 },
 {
@@ -22817,7 +22821,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 }
 );
 kerning = {
