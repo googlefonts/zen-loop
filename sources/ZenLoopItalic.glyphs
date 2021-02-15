@@ -153,7 +153,7 @@ alignmentZones = (
 );
 ascender = 713;
 capHeight = 690;
-custom = "Regular Italic";
+custom = Italic;
 customParameters = (
 {
 name = TTFZones;
@@ -187,6 +187,38 @@ value = 20;
 {
 name = underlinePosition;
 value = -133;
+},
+{
+name = typoAscender;
+value = 820;
+},
+{
+name = typoDescender;
+value = 250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 820;
+},
+{
+name = hheaDescender;
+value = 250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 835;
+},
+{
+name = winDescent;
+value = 275;
 }
 );
 descender = -187;
@@ -22774,6 +22806,12 @@ rightMetricsKey = "=|";
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 400;
+}
+);
 instanceInterpolations = {
 "8AECA43D-4735-4071-BB51-E4BAE59DF091" = 1;
 };
