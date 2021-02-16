@@ -1,0 +1,5 @@
+fontmake
+fontbakery
+git+https://github.com/googlefonts/gftools
+gftools[qa]
+brotli
