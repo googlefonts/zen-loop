@@ -14,6 +14,7 @@ value = (
 NULL,
 CR,
 space,
+nbspace,
 exclam,
 quotedbl,
 numbersign,
@@ -116,7 +117,6 @@ trademark,
 plusminus,
 yen,
 ellipsis,
-nbspace,
 endash,
 emdash,
 quotedblleft,
@@ -278,6 +278,19 @@ width = 240;
 }
 );
 unicode = 0020;
+},
+{
+color = 0;
+glyphname = nbspace;
+lastChange = "2021-02-15 04:43:55 +0000";
+layers = (
+{
+layerId = "8AECA43D-4735-4071-BB51-E4BAE59DF091";
+width = 240;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
 },
 {
 glyphname = exclam;
@@ -15433,19 +15446,6 @@ leftMetricsKey = period;
 rightKerningGroup = period;
 rightMetricsKey = period;
 unicode = 2026;
-},
-{
-color = 0;
-glyphname = nbspace;
-lastChange = "2021-02-15 04:43:55 +0000";
-layers = (
-{
-layerId = "8AECA43D-4735-4071-BB51-E4BAE59DF091";
-width = 240;
-}
-);
-widthMetricsKey = space;
-unicode = 00A0;
 },
 {
 glyphname = endash;
