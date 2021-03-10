@@ -4,7 +4,8 @@ DisplayStrings = (
 "æ",
 "/NULL \015/space !\"#$%&'()*+,-.//0123456789:;<=>?@ABCDEFG/_v_stem_UC HIJKLMNOPQRSTUVWXYZ[/backslash ]^_`abcdefghijklmnopqrstuvwxyz{|}~¢/bullet ®©/trademark ±¥/ellipsis/nbspace/endash/emdash/quotedblleft/quotedblright/quoteleft/quoteright ÷ÁÂÄÀÅÃÆÇÐÉÊËÈÍÎÏÌÑÓÔÖÒØÕ/OE ÞÚÛÜÙÝáâäàåãæçðéêëè/idotless íîïì/jdotless ñóôöòøõ/oe þßúûüùý/ydieresis ªº¹²³/foursuperior/fraction ½¼¾¡¿·­/quotesinglbase/quotedblbase «»/guilsinglleft/guilsinglright ¤/euro £/divisionslash/minus ×¬µ¶§°¦/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/circumflexcomb/ringcomb/tildecomb/cedillacomb ¨´/circumflex/ring/tilde ¯¸/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/circumflexcomb.case/ringcomb.case/tildecomb.case/emptyGlyphName/emptyGlyphName.001/_v_stem_UC/_v_stem_lc",
 B,
-"ßbp/Germandbls BPS"
+"ßbp/Germandbls BPS",
+"/_v_stem_UC D"
 );
 classes = (
 {
@@ -6594,7 +6595,7 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2021-02-15 12:50:17 +0000";
+lastChange = "2021-03-10 23:06:03 +0000";
 layers = (
 {
 anchors = (

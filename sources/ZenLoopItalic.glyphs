@@ -4,7 +4,8 @@ DisplayStrings = (
 "/space/nbspace",
 "Hola/space soy/space zen/space loop/space :)",
 "/nbspace",
-"ßbp/Germandbls/Germandbls BPS"
+"ßbp/Germandbls/Germandbls BPS",
+"OQB/_v_stem_UC DÐF/_v_stem_UC JRÆ"
 );
 copyright = "Copyright 2021 The Zen-Loop Project Authors (https://github.com/googlefonts/zen-loop)";
 customParameters = (
@@ -4745,7 +4746,7 @@ unicode = 0041;
 {
 color = 4;
 glyphname = B;
-lastChange = "2020-10-02 15:14:38 +0000";
+lastChange = "2021-03-10 23:14:29 +0000";
 layers = (
 {
 anchors = (
@@ -4860,7 +4861,7 @@ nodes = (
 "209 21 OFFCURVE",
 "99 21 CURVE SMOOTH",
 "14 21 LINE",
-"8 0 LINE"
+"9 0 LINE"
 );
 }
 );
@@ -5159,7 +5160,7 @@ unicode = 0043;
 {
 color = 4;
 glyphname = D;
-lastChange = "2021-02-15 12:50:08 +0000";
+lastChange = "2021-03-10 23:14:13 +0000";
 layers = (
 {
 anchors = (
@@ -5208,7 +5209,7 @@ nodes = (
 "123 0 LINE",
 "129 21 LINE",
 "16 21 LINE",
-"10 0 LINE"
+"9 0 LINE"
 );
 },
 {
@@ -5216,7 +5217,7 @@ closed = 1;
 nodes = (
 "292 669 LINE",
 "294 690 LINE",
-"191 690 LINE",
+"190 690 LINE",
 "185 669 LINE"
 );
 }
@@ -5507,7 +5508,7 @@ unicode = 0045;
 {
 color = 4;
 glyphname = F;
-lastChange = "2021-02-15 12:50:08 +0000";
+lastChange = "2021-03-10 23:09:20 +0000";
 layers = (
 {
 anchors = (
@@ -5579,7 +5580,7 @@ nodes = (
 "389 686 OFFCURVE",
 "385 690 OFFCURVE",
 "380 690 CURVE SMOOTH",
-"191 690 LINE SMOOTH",
+"190 690 LINE SMOOTH",
 "184 690 OFFCURVE",
 "179 685 OFFCURVE",
 "179 678 CURVE SMOOTH",
@@ -6130,7 +6131,7 @@ unicode = 0049;
 {
 color = 4;
 glyphname = J;
-lastChange = "2021-02-15 12:50:08 +0000";
+lastChange = "2021-03-10 23:10:25 +0000";
 layers = (
 {
 anchors = (
@@ -6148,21 +6149,41 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-190 -162 OFFCURVE",
-"-196 -169 OFFCURVE",
-"-196 -176 CURVE SMOOTH",
-"-196 -180 OFFCURVE",
-"-193 -183 OFFCURVE",
-"-188 -183 CURVE SMOOTH",
-"-87 -183 OFFCURVE",
-"-18 -125 OFFCURVE",
+"-390 -162 OFFCURVE",
+"-396 -169 OFFCURVE",
+"-396 -176 CURVE SMOOTH",
+"-396 -180 OFFCURVE",
+"-393 -183 OFFCURVE",
+"-388 -183 CURVE SMOOTH",
+"-287 -183 OFFCURVE",
+"-218 -125 OFFCURVE",
+"-186 -14 CURVE SMOOTH",
+"-179 10 LINE",
+"-200 12 LINE",
+"-207 -14 LINE SMOOTH",
+"-234 -114 OFFCURVE",
+"-289 -162 OFFCURVE",
+"-383 -162 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-82 -183 OFFCURVE",
+"-20 -131 OFFCURVE",
 "14 -14 CURVE SMOOTH",
 "21 10 LINE",
 "0 12 LINE",
-"-7 -14 LINE SMOOTH",
-"-34 -114 OFFCURVE",
+"-10 -20 LINE SMOOTH",
+"-39 -113 OFFCURVE",
 "-89 -162 OFFCURVE",
-"-183 -162 CURVE SMOOTH"
+"-183 -162 CURVE SMOOTH",
+"-190 -162 OFFCURVE",
+"-195 -167 OFFCURVE",
+"-195 -174 CURVE SMOOTH",
+"-195 -179 OFFCURVE",
+"-191 -183 OFFCURVE",
+"-186 -183 CURVE SMOOTH"
 );
 }
 );
@@ -7752,7 +7773,7 @@ unicode = 0051;
 {
 color = 4;
 glyphname = R;
-lastChange = "2021-02-15 12:50:08 +0000";
+lastChange = "2021-03-10 23:11:13 +0000";
 layers = (
 {
 anchors = (
@@ -7846,7 +7867,7 @@ nodes = (
 "419 638 OFFCURVE",
 "387 690 OFFCURVE",
 "312 690 CURVE SMOOTH",
-"205 690 LINE",
+"204 690 LINE",
 "199 669 LINE",
 "306 669 LINE SMOOTH",
 "372 669 OFFCURVE",
@@ -7862,7 +7883,7 @@ nodes = (
 "109 403 OFFCURVE",
 "140 403 CURVE SMOOTH",
 "249 403 OFFCURVE",
-"295 340 OFFCURVE",
+"294 340 OFFCURVE",
 "292 198 CURVE SMOOTH",
 "289 11 LINE SMOOTH",
 "289 3 OFFCURVE",
@@ -15951,7 +15972,7 @@ unicode = 00C3;
 },
 {
 glyphname = AE;
-lastChange = "2021-02-15 12:50:08 +0000";
+lastChange = "2021-03-10 23:12:07 +0000";
 layers = (
 {
 background = {
@@ -16115,10 +16136,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"322 269 LINE",
+"315 269 LINE",
 "321 290 LINE",
-"145 290 LINE",
-"135 269 LINE"
+"155 290 LINE",
+"142 269 LINE"
 );
 }
 );
